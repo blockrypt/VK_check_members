@@ -3,7 +3,7 @@ import json
 import os
 
 # Используем сервисный ключ
-service_key = '42379ae742379ae742379ae779412b162a4423742379ae724fda935a35252e921c2bc54'
+service_key = 'ваш ключ'
 
 # Авторизация в VK API
 vk_session = vk_api.VkApi(token=service_key)
