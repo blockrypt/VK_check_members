@@ -10,7 +10,7 @@ vk_session = vk_api.VkApi(token=service_key)
 vk = vk_session.get_api()
 
 # ID группы
-group_id = '201437354'
+group_id = 'id group'
 
 # Путь к файлу, где будет храниться предыдущий список подписчиков
 members_file = 'members.json'
